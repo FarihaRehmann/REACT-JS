@@ -1,0 +1,27 @@
+
+.footer-section {
+  background-color: #f59649;
+  width: 100%;
+  padding: 20px 0;
+}
+
+.footer-section .nav-link {
+  color: #713D24;
+  font-family: 'Lora', serif;
+  font-weight: 600;
+}
+
+.footer-section .nav-link:hover {
+  color: #E87532;
+}
+
+.footer-section ul {
+  border-color: #E8CDB8 !important;
+}
+
+.footer-copy {
+  color: #713D24;
+  font-family: 'Lora', serif;
+  font-size: 14px;
+  margin-bottom: 0;
+}

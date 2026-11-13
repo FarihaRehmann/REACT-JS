@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800&family=Lora:wght@400;500;600&display=swap');
+.hero-section {
+  background-color: #ffb883;
+  padding: 30px 50px;
+}
+
+.hero-content {
+  margin: 0 auto;
+  max-width: 1300px;
+}
+
+.hero-text {
+  padding: 20px;
+}
+
+.hero-text h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+.hero-text p {
+  font-family: 'Lora', serif;
+}
+
+/* Order Now Button */
+.order-btn {
+  background-color: #E87532;
+  color: white;
+  border: none;
+}
+
+.order-btn:hover {
+  background-color: #C95B20;
+  color: white;
+}
+
+/* Learn More Button */
+.learn-btn {
+  background-color: transparent;
+  color: #47734B;
+  border: 2px solid #47734B;
+}
+
+.learn-btn:hover {
+  background-color: #D9EAD3;
+  color: #355B39;
+  border-color: #D9EAD3;
+}
